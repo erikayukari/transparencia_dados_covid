@@ -1,5 +1,3 @@
-#projeto_transparencia_covid
-Projeto de Análise de Dados 
 
 Repositório criado para realizar a análise exploratória da base de dados ``Ranking de Transparência no Combate à COVID-19``, da Transparência Internacional.
 
