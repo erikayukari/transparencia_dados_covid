@@ -1,5 +1,5 @@
 
-Repositório criado para realizar a análise exploratória da base de dados ``Ranking de Transparência no Combate à COVID-19``, da Transparência Internacional.
+Repositório criado para Projeto de Análise Exploratória da base de dados ``Ranking de Transparência no Combate à COVID-19``, da Transparência Internacional.
 
 O grupo da disciplina orientada pelo professor André Filipe de Moraes Batista é formado pelos alunos: Érika Yukari F. Kamikava, Victor Farias e Juliana G. Ribeiro. 
 
